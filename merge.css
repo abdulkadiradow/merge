@@ -1,4 +1,22 @@
-body {
-  background-color: black;
+
+.item {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.item{
+  display: inline-flex;
   
+  
+}
+.food{
+  text-align: left;
+  width: 50%;
+  padding-left: 10px;
+}
+.price{
+  text-align: right;
+  width: 49%;
 }
