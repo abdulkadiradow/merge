@@ -14,9 +14,10 @@
 .food{
   text-align: left;
   width: 50%;
-  padding-left: 10px;
+  padding-left: 0;
 }
 .price{
   text-align: right;
-  width: 49%;
+  width: 50%;
+  padding-right: 0;
 }
